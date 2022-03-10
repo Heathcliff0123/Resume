@@ -1,7 +1,10 @@
-body{
-  font-family: sans-serif;
-  font-size:110%;
-  background-color: #FCF7F8;
+#corep,#langp,#codingp,#marcp,#overviewp,#Experiencep,#leisap,#Exap,#Achievp{
+  
+    font-family: calibri;
+  font: size 11px;
+  color: black;
+  
+  
 }
 
 header {
