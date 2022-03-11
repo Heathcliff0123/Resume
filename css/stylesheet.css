@@ -1,12 +1,34 @@
-#corep,#langp,#codingp,#marcp,#overviewp,#Experiencep,#leisap,#Exap,#Achievp{
+#corep,#langp,#codingp,#marcp,#overviewp,#Experiencep,#leisap,#Exap,#Achievp,#lifep{
   
     font-family: calibri;
   font: size 11px;
   color: black;
+  padding: 10px;
   
   
 }
+body{
+  margin: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border-style: solid;
 
+}
+
+h2{
+  font-style: bold;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(33, 75, 214);
+
+  border-color: rgb(48, 213, 210);
+  border-style: solid;
+
+}
+h3{
+  color: rgb(78, 23, 210);
+  padding: 10px;
+}
 header {
   text-align: center;
 }
