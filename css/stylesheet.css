@@ -36,7 +36,7 @@ h2{
  
   background-color: rgb(33, 75, 214);
 
-  border-color: rgb(48, 213, 210);
+  
   border-style: solid;
 
 }
@@ -77,6 +77,6 @@ body{
 #face{
   width: 150px;
   border-radius: 60%;
-  border-color: rgb(48, 213, 210);
+  border-color: rgb(33, 75, 214);
   border-style: solid;
 }
