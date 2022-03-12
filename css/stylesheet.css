@@ -74,3 +74,9 @@ ul{
 body{
   background-color: aliceblue;
 }
+#face{
+  width: 150px;
+  border-radius: 60%;
+  border-color: rgb(48, 213, 210);
+  border-style: solid;
+}
