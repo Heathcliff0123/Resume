@@ -8,6 +8,7 @@
   
   
 }
+
 body{
   margin: 20px;
   margin-left: 25px;
@@ -51,10 +52,11 @@ header {
   padding: 10px;
   text-align: center;
   justify-content: center;
+  background-color: rgb(196, 190, 190);
 }
 
 footer {
-  background-color: #343330;
+  background-color: rgb(196, 190, 190);
   text-align: center;
 }
 
@@ -79,4 +81,9 @@ body{
   border-radius: 60%;
   border-color: rgb(33, 75, 214);
   border-style: solid;
+}
+#icon{
+  width: 50px;
+  
+  border-style: hidden;
 }
