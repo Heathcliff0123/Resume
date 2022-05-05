@@ -70,8 +70,20 @@ body {
   border-color: rgb(33, 75, 214);
   border-style: solid;
 }
-#icon {
+.class {
   width: 50px;
-
+  border-radius: 100%;
   border-style: hidden;
+}
+#gmail:hover{
+  animation-name: gmail_resize;
+  animation-duration: 5s;
+  
+}
+
+@keyframes gmeil_resize {
+  100%{
+  width: 100px ;
+  }
+  
 }
